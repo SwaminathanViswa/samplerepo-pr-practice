@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Practice {
+public class Practice {
+
 }
+
+// New lines added
+// for practice purposes
