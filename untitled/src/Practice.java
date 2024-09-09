@@ -1,5 +1,4 @@
 public class Practice {
-
 }
 
 // New lines added
